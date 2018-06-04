@@ -1,4 +1,4 @@
-baseurl = "https://datavid.org/"
+baseurl = "https://datavid.netlify.com/"
 title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
