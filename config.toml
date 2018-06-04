@@ -1,4 +1,4 @@
-baseurl = "https://datavid.netlify.com/"
+baseurl = "https://datavid.rbind.io/"
 title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
